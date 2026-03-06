@@ -18,7 +18,9 @@ The website is designed to feel like a **luxury digital Vrindavan celebration** 
 
 ## ✨ Live Preview
 
-Open `anniversary.html` directly in any modern browser — no server or installation required.
+🌐 **[View Live Site → parthbhuyan.github.io/prabhu-mataji](https://parthbhuyan.github.io/prabhu-mataji/)**
+
+Or open `anniversary.html` directly in any modern browser — no server or installation required.
 
 ---
 
